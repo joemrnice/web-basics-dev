@@ -1,0 +1,119 @@
+/*Animals Diary*/
+
+.btn {
+    color: rgb(18, 114, 151);
+    background-color: #b6ddf5;
+}
+
+#ani {
+    color: greenyellow;
+}
+
+#mals {
+    color: aqua;
+}
+
+#diary {
+    color: palevioletred;
+}
+
+/*BirthDay Invitation*/
+
+main#birthday {
+    background-image: url(../avatar/birthday/birthday_ballons2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div.designs > div > p, ul {
+    font-size: 2em;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.hi-joe, #hi-joe {
+    color: red;
+    font-size: 3em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+    text-align: center;
+}
+
+#hi-joe {
+    font-size: 4rem;
+}
+
+p#song {
+    color: rgb(192, 3, 3);
+}
+
+#body-birthday {
+    background-image: url(../avatar/birthday/birthday_ballons2.jpeg);
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 2em;
+}
+
+/*Netflix best 21st century movies*/
+#top10 {
+    background-image: url(../avatar/netflix/movies.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#toplist > li {
+    list-style-type: none;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+    color: white;
+}
+
+.hi-movie {
+    color: red;
+    font-weight: bold;
+    font-size: 5em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+hr {
+    border: 2px solid dodgerblue;
+    width: 100%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#movie1,
+#movie2,
+#movie3,
+#movie4,
+#movie5,
+#movie6,
+#movie7,
+#movie8,
+#movie9,
+#movie10 {
+    font-size: 2em;
+}
+
+p.analysis {
+    color: rgb(105, 200, 230);
+    font-size: 1.5em;
+    width: 60%;
+    align-items: center;
+    margin: 20px auto;
+    text-align: center;
+}
