@@ -1,3 +1,48 @@
+/*Body*/
+@media screen and (max-width: 1280px) {
+    body {
+        width: 1000px;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 1020px) {
+    body {
+        width: 900px;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    body {
+        width: 897px;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        width: 740px;
+        padding: 10px;
+    }
+
+    .nav-link {
+        width: 740px;
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        width: 460px;
+        padding: 5px;
+    }
+
+    .nav-link {
+        width: 480px;
+        font-size: 20px;
+    }
+}
 /* Navigation Bar */
 .nav-link  {
     display: flex;

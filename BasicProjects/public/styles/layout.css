@@ -92,38 +92,52 @@ main#birthday {
     height: 20%;
 }
 
-@media screen and (max-width: 1600) {
-    body#body-birthday {
+@media screen and (max-width: 1280px) {
+    body#body-birthday, main#birthday {
+        padding: 15px;
+        width: 1000px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    body#body-birthday, main#birthday {
         padding: 15px;
         width: 900px;
     }
 }
 
-@media screen and (max-width: 1200) {
-    body#body-birthday {
-        padding: 15px;
-        width: 879px;
-    }
-}
-
-@media screen and (max-width: 900) {
-    body#body-birthday {
+@media screen and (max-width: 1020px) {
+    body#body-birthday, main#birthday {
         padding: 15px;
         width: 800px;
     }
 }
 
-@media screen and (max-width: 690) {
-    body#body-birthday {
+@media screen and (max-width: 767px) {
+    body#body-birthday, main#birthday {
         padding: 15px;
-        width: 600px;
+        width: 690px;
     }
 }
 
-@media screen and (max-width: 600) {
-    body#body-birthday {
-        padding: 15px;
+@media screen and (max-width: 600px) {
+    body#body-birthday, main#birthday {
+        padding: 10px;
         width: 500px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    body#body-birthday, main#birthday {
+        padding: 5px;
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 478px) {
+    body#body-birthday, main#birthday {
+        padding: 5px;
+        width: 460px;
     }
 }
 
