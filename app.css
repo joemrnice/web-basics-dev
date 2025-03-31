@@ -1,4 +1,8 @@
 /*Body*/
+body {
+    background-color: navajowhite;
+}
+
 @media screen and (max-width: 1280px) {
     body {
         width: 1000px;
