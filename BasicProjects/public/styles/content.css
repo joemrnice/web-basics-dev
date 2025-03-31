@@ -20,10 +20,7 @@
 /*BirthDay Invitation*/
 
 main#birthday {
-    background-image: url(../avatar/birthday/birthday_ballons2.jpeg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-color: #f7f7f7;
 }
 
 div.designs > div > p, ul {
@@ -116,4 +113,9 @@ p.analysis {
     align-items: center;
     margin: 20px auto;
     text-align: center;
+}
+
+ul > li, ol > li {
+    list-style-type: none;
+    text-decoration: none;
 }
