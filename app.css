@@ -328,3 +328,9 @@ ul > li {
         height: 150px;
     }
 }
+
+.footer-links > a {
+    color: dodgerblue;
+    text-decoration: none;
+    margin-bottom: 15px; 
+}
