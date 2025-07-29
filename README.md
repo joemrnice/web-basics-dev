@@ -1,4 +1,4 @@
-# JOE.GITHUB.IO
+# Web-basics-dev
 
 ![Banner Image](./BasicProjects/public/avatar/netflix/movies.jpeg)
 
@@ -11,7 +11,7 @@ Welcome to **JOE.GITHUB.IO**, a simple basic projects portfolio website designed
 The project is organized as follows:
 
 ```
-JOE.GITHUB.IO/
+web-basics-dev/
 ├── BasicProjects/
 |        ├── projects
 |        |   ├──animals_diary.html      # HTML Templates 
