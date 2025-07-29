@@ -2,7 +2,7 @@
 
 ![Banner Image](./BasicProjects/public/avatar/netflix/movies.jpeg)
 
-Welcome to **JOE.GITHUB.IO**, a simple basic projects portfolio website designed to illustrate beginners web design thoughts. These project is built using HTML templates, CSS styling , and JavaScript interactive.
+Welcome to **web-basics-dev**, a simple basic projects portfolio website designed to illustrate beginners web design thoughts. These project is built using HTML templates, CSS styling , and JavaScript interactive.
 
 ---
 
@@ -41,8 +41,8 @@ web-basics-dev/
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/joemrnice/joe.github.io.git
-   cd joe.github.io
+   git clone https://github.com/joemrnice/web-basics-dev.git
+   cd web-basics-dev
    ```
 2. **CSS Styles**:
    Edit the CSS files in `public/styles/content.css/` and  `public/styles/layout.css/` to add more ingredient into the CSS designs and responsiveness.
@@ -84,6 +84,6 @@ For any questions or feedback, feel free to reach out:
 
 ---
 
-Enjoy building and exploring the **JOE.GITHUB.IO**! 🚀
+Enjoy building and exploring the **web-basics-dev**! 🚀
 
 ---
